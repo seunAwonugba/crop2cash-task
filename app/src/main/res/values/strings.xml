@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Crop2Cash</string>
+    <string name="unable_to_resolve_host">Unable to resolve host</string>
+    <string name="lost_internet_connection">Lost internet connection</string>
+    <string name="click_to_retry">Click to retry</string>
+    <string name="http_404">HTTP 404</string>
+    <string name="resource_not_found">Resource not found</string>
+    <string name="click_to_go_back">Click to refind</string>
+    <string name="unknown_error">Unknown error</string>
+</resources>
